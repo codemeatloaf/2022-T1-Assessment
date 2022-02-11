@@ -8,6 +8,7 @@ Players can select upgrade from skill tree, which eventually branches off into s
 Customisation options get unlocked with higher points, store
 
 
+============================================================================================================================================================
 
 Animal Simulator 
 
@@ -18,5 +19,11 @@ Randomly generated landscapes, players can choose between different biomes to ge
 Players can choose between different animals to play as, and customise. Each animal has different skills or abilities, rabbits can jump, foxes can bite etc.
 Animals need to eat and drink in order to survive.
 Each day/night cycle lasts for 10 minutes - 10 minutes day, 10 minutes night
+Static seasons/seasons change in events (such as christmas or halloween)
+
+Rain Cycles:
+Rain cycle has random chance of happening. Every day it does not rain there is a +5% chance of it raining. Rain continues on through the night. 
+If it is raining and night is about to transition to day there is a 50% chance that it will stop raining. The chances of it raining and the chances
+of it stopping differ between biomes.
 
 
