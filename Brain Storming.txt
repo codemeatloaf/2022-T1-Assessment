@@ -1,3 +1,4 @@
+
 Third Person Shooter / Balloon Tower Defence
 
 Single Player – No co-op other than leader boards
@@ -7,12 +8,15 @@ Players can select upgrade from skill tree, which eventually branches off into s
 Customisation options get unlocked with higher points, store
 
 
+
 Animal Simulator 
 
 Multiplayer - MMO/RPG
 Player loads into character customization screen, and are able to create a server to invite friends
 Server list is also an option, between creating a server and character creation screen in main menu
 Randomly generated landscapes, players can choose between different biomes to generate for a server & their limits/how big it is
-Players can choose between different animals to play as, and customise
+Players can choose between different animals to play as, and customise. Each animal has different skills or abilities, rabbits can jump, foxes can bite etc.
+Animals need to eat and drink in order to survive.
+Each day/night cycle lasts for 10 minutes - 10 minutes day, 10 minutes night
 
 
