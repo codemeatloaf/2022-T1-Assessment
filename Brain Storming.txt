@@ -1,0 +1,18 @@
+Third Person Shooter / Balloon Tower Defence
+
+Single Player – No co-op other than leader boards
+Points start at 0, each balloon popped gives extra points. Each wave brings more enemies.
+Cookie clicker style upgrades for weapons, enemies get tougher progressively. Eventually player is able to unlock sentry weapons, so it becomes automated. 
+Players can select upgrade from skill tree, which eventually branches off into separate ‘classes’ 
+Customisation options get unlocked with higher points, store
+
+
+Animal Simulator 
+
+Multiplayer - MMO/RPG
+Player loads into character customization screen, and are able to create a server to invite friends
+Server list is also an option, between creating a server and character creation screen in main menu
+Randomly generated landscapes, players can choose between different biomes to generate for a server & their limits/how big it is
+Players can choose between different animals to play as, and customise
+
+
