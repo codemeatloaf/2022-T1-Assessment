@@ -7,10 +7,9 @@ Cookie clicker style upgrades for weapons, enemies get tougher progressively. Ev
 Players can select upgrade from skill tree, which eventually branches off into separate ‘classes’ 
 Customisation options get unlocked with higher points, store
 
-
 ============================================================================================================================================================
 
-Animal Simulator 
+Animal Simulator (lif//fly like a bird)
 
 Multiplayer - MMO/RPG
 Player loads into character customization screen, and are able to create a server to invite friends
@@ -25,5 +24,30 @@ Rain Cycles:
 Rain cycle has random chance of happening. Every day it does not rain there is a +5% chance of it raining. Rain continues on through the night. 
 If it is raining and night is about to transition to day there is a 50% chance that it will stop raining. The chances of it raining and the chances
 of it stopping differ between biomes.
+
+============================================================================================================================================================
+
+Probability Game
+
+Multiplayer 
+Board game - players move forward by guessing a probability of a dice with a random amount of sides. 
+Players can land on a spot that increases the possibility of a higher roll, but they then need to manage between the upgrades and the dice roll as they 
+eventually move forward much quicker but it also becomes much harder to guess the probability of landing on a number.
+Each number to guess is a randomly generated number between 1 and 500
+Game starts off slow because dice is only 6 sided, so its easy to guess. 
+
+Say a generated number is 6, and you have a 6 sided dice. the answer will be one in 6.
+Say the generated number is 15 and you have a 6 sided dice, the answer will be 0/6 because it is a 6 sided dice. 
+
+Each round the dice is increased by 50. 
+
+Board is infinite and person who has made it the furthest in the set amount of time is the winnder
+
+List of possible upgrades
+- Number of dice rolled goes up number of dice goes down
+- Generated number has a higher chance of being rolled on one of the dice
+
+Programming language is C# or Java using unity engine
+
 
 
